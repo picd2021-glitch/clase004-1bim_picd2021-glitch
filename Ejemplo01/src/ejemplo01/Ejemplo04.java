@@ -20,4 +20,4 @@ public class Ejemplo04 {
         System.out.print(nombreEstudiante);
     }
 }
-// Syste.out.print sirve para presentar informacion en una misma línea
+// Syste.out.print sirve para presentar informacion en una misma línea a diferencia del println que salta de linea
